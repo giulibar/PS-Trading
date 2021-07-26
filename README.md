@@ -6,3 +6,9 @@ A script that interacts with the PanckakeSwap router using Web3 and trade tokens
 3) Integrate the script with some bot to make atuomatic purchases for trading or other stuff 
 
 ![image](https://user-images.githubusercontent.com/63260536/127066973-71f3bc44-378c-4b1e-b5a8-0e36b079d634.png)
+
+
+
+
+![image](https://user-images.githubusercontent.com/63260536/127067181-411331aa-7b62-4277-be8b-54834f6da45c.png)
+
