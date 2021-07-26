@@ -5,7 +5,7 @@ A script that interacts with the PanckakeSwap router using Web3 and trade tokens
 2) Run node bot.js and get the txn hash, look at it at bscscan
 3) Integrate the script with some bot to make atuomatic purchases for trading or other stuff 
 
-![image](https://user-images.githubusercontent.com/63260536/127066973-71f3bc44-378c-4b1e-b5a8-0e36b079d634.png)
+![image](https://user-images.githubusercontent.com/63260536/127067523-b7352356-82ad-403d-9390-be683118b6b2.png)
 
 
 
